@@ -8,5 +8,5 @@
 **Level:**  Undergraduate, Freshman  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
-Photo: ![This is Fauzaan]()
+Photo: ![This is Fauzaan](VJSN0726.JPG)
 
