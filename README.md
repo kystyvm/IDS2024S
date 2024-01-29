@@ -7,4 +7,4 @@
 **University:**  The University of Texas at Arlington  
 **Level:**  Undergraduate, Freshman  
 **Position Title:** Student  
-**Course Webpage:** www.cdslab.org/IDS2024S  
+**Course Webpage:** [Professor's homepage](www.cdslab.org/IDS2024S)    
