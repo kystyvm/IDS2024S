@@ -8,7 +8,7 @@
 **Level:**  Undergraduate, Freshman  
 **Position Title:** Student  
 **Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
-Photo: ![This is Fauzaan](faz.JPG)(fauzaan.JPG)  
+Photo: ![This is Fauzaan](fauzaan.JPG) ![This is Fauzaan too](faz.JPG)    
 # Description of the project's contents #  
 This repository contains my homework, quizzes, and virtually every effort that I have made for **IDS2024S**. The structure of the project is the following:  
 **homework:** (the homework hyperlink should take the reader to the homework folder)  
