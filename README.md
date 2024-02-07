@@ -1,3 +1,4 @@
+
 # IDS2024S
 **IDS2024S, Introduction to Data Science, Spring 2024**  
 **Name:** Fauzaan Mohammed  
@@ -20,5 +21,7 @@ For questions and troubleshooting, please contact:
 
 Fauzaan Mohammed  
 fauzaan1426@gmail.com / fxm8679@mavs.uta.edu  
+
+This is a message from laptop command line.
 
 
