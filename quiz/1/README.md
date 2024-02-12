@@ -26,6 +26,11 @@ $ git commit -m "committing the test project for quiz 1"
  2 files changed, 2 insertions(+)
  create mode 100644 README.md
  create mode 100644 testdir  
+
+ $ git status
+On branch master
+nothing to commit, working tree clean  
+  
   
 
 
