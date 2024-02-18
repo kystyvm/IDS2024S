@@ -8,7 +8,7 @@
 **University:**  The University of Texas at Arlington  
 **Level:**  Undergraduate, Freshman  
 **Position Title:** Student  
-**Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
+**Course Webpage:** [IDS2024S](https://www.cdslab.org/IDS2024S/)  
 Photo:  
 ![This is Fauzaan](fauzaan.png)  
 # Description of the project's contents #  
