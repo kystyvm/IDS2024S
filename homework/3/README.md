@@ -13,12 +13,13 @@ This README file contains answers to homework 3.
     3. If a person crawls out the broken window, the burglary is currently happening and the person may be the robber.
     4. If the person is carrying a bag full of jewels/stolen items, then he is the robber.
     5. Hence, if a person is seen carrying a bag full of jewels/stolen items and is seen crawling out of a broken window of the jewelry store who's burglar alarm went off,          then that person is the robber and is currently robbing the store.
-6. ![photo answer](6.jepg)  
-
-
-
-
+6. ![photo answer](6.png)
+7. ![photo answer](7.png)
+8. ![photo answer](8.png)
+9. ![photo answer](9.png)
+10. ![photo answer](10.png)
+11. ![photo answer](11.png)
 12. a. bit.  
     b. bit is the smallest because it can only store 2 variables. No I wouldn't be able to, I wouldn not be able to because if im referencing myself in space then I am 
        stationary unless and until I compare myself with another entity. I would need a referene point to my location.  
-    c.
+    c. 12. ![photo answer](12c.png)  
