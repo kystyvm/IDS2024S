@@ -12,7 +12,8 @@ This README file contains answers to homework 3.
     2. If the window of the jewelry store is broken, then there's a burglary happening or has happened.
     3. If a person crawls out the broken window, the burglary is currently happening and the person may be the robber.
     4. If the person is carrying a bag full of jewels/stolen items, then he is the robber.
-    5. Hence, if a person is seen carrying a bag full of jewels/stolen items and is seen crawling out of a broken window of the jewelry store who's burglar alarm went off,          then that person is the robber and is currently robbing the store.  
+    5. Hence, if a person is seen carrying a bag full of jewels/stolen items and is seen crawling out of a broken window of the jewelry store who's burglar alarm went off,          then that person is the robber and is currently robbing the store.
+6. ![photo answer](6.jepg)  
 
 
 
