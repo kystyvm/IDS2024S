@@ -3,7 +3,7 @@
 3. a) a workflow bridging data, hypothesis/theory, and prediction (predictive computing).  
    b) a substitute for experiment and observational data, where it is not available (numerical simulation).  
    c) a substitute for theory, where it is not available (data-driven discovery via machine learning, deep learning, …).
-4. Deductive - example:  
+4. Deductive - example:  All dogs bark and Max is dog, therefore Max barks.  
    Plausible - example: if it's raining then it must be cloudy.
 5. We say that rain occurs due to the formation of clouds or that before rain occurs clouds are formed which is a logical implication, but the formation of clouds does not
 guarantee the occurence of rain which is a physical causation.
