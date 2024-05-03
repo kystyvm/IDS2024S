@@ -18,4 +18,8 @@
 
 12. Age cannot be negative.
 13. The second one.
-14. 
+14. - 16. excel sheets.
+17. - pdf.  
+18. Frequentist and Bayesian.
+19. frog.  
+20. 9+3-4=8.  
