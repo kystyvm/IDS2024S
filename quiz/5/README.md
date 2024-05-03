@@ -11,7 +11,7 @@
    Diverging color scale - In some cases, we need to visualize the deviation of data values in one of two directions relative to a neutral midpoint.
    Accent color scales - accent color scales , which are color scales that contain both a set of subdued colors and a matching set of stronger, darker, and/or more saturated colors, Color can also be an effective tool to highlight specific elements in the data.
 9. Because it makes interpreting the data difficult.
-10. 
+10. random numbers can be termed at numerical but when theyre assigned to some particular thing for example: 1,2,3,4... and I assign a category to them then they become categorical.  
 11. Color is categorical /unordered.
 12. All of them.
 13. The second one.
