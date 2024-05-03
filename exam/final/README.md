@@ -1,13 +1,13 @@
 1. Calibration is checking for the apparatus or equipment whereas validation is actually checking if the apparatus or equipment is working.  
 2. All data visualizations map data values into quantifiable features of the resulting graphic. We refer to these features as aesthetics. few aesthetics are position, shape, size.
 3. Second one.
-4. a. a means to distinguish discrete items or groups that do not have an intrinsic order, such as different countries on a map or different manufacturers of a certain product.
-   b. Color can also be used to represent data values, such as income, temperature, or speed. In this case, we use a sequential color scale. Such a scale contains a sequence of colors that clearly indicate
-   (i) which values are larger or smaller than which other ones and (ii) how distant two specific values are from each other. The second point implies that the color scale needs to be perceived to vary uniformly across its entire range.
-   c. In some cases, we need to visualize the deviation of data values in one of two directions relative to a neutral midpoint.
-   d. Color can also be an effective tool to highlight specific elements in the data. An easy way to achieve this emphasis is to color these figure elements in a color or set of colors that vividly stand out against the rest of the figure. This effect can be achieved with accent color scales, which are color scales that contain both
-   a set of subdued colors and a matching set of stronger, darker, and/or more saturated colors.
-5. Experiment, Theory, Computation+Data.
+4. a. a means to distinguish discrete items or groups that do not have an intrinsic order, such as different countries on a map or different manufacturers of a certain product.  
+   b. Color can also be used to represent data values, such as income, temperature, or speed. In this case, we use a sequential color scale. Such a scale contains a sequence of colors that clearly indicate  
+   (i) which values are larger or smaller than which other ones and (ii) how distant two specific values are from each other. The second point implies that the color scale needs to be perceived to vary uniformly across its entire range.  
+   c. In some cases, we need to visualize the deviation of data values in one of two directions relative to a neutral midpoint.    
+   d. Color can also be an effective tool to highlight specific elements in the data. An easy way to achieve this emphasis is to color these figure elements in a color or set of colors that vividly stand out against the rest of the figure. This effect can be achieved with accent color scales, which are color scales that contain both  
+   a set of subdued colors and a matching set of stronger, darker, and/or more saturated colors.  
+5. Experiment, Theory, Computation + Data.
 6. We say that rain occurs due to the formation of clouds or that before rain occurs clouds are formed which is a logical implication, but the formation of clouds does not guarantee the occurence of rain which is a physical causation.
 7. 1. No because most of the data does not resonate around the red line.
    2. Epistemic.
