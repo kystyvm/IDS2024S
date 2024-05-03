@@ -18,6 +18,10 @@
 
 12. Age cannot be negative.
 13. The second one.
+14.   
+15.   
+16.  
+17.   
 18. Frequentist and Bayesian.
 19. frog.  
 20. 9+3-4=8.
